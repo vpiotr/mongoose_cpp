@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1430487534 source:e:\progs\srepos\mongoose_cpp\mongoose\mongoose.c
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+	<signal.h>
+	<fcntl.h>
+	<time.h>
+	<stdlib.h>
+	<stdarg.h>
+	<assert.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<windows.h>
+	<process.h>
+	<direct.h>
+	<io.h>
+	<stdint.h>
+	<sys/wait.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/time.h>
+	<stdint.h>
+	<inttypes.h>
+	<netdb.h>
+	<pwd.h>
+	<unistd.h>
+	<dirent.h>
+	<dlfcn.h>
+	<pthread.h>
+	"mongoose.h"
+	<lua.h>
+	<lauxlib.h>
+	"solarisfixes.h"
+	<sys/mman.h>
+
+1430487534 e:\progs\srepos\mongoose_cpp\mongoose\mongoose.h
+	<stdio.h>
+	<stddef.h>
+	<sal.h>
+
