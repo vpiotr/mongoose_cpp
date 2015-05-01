@@ -3,11 +3,11 @@ Embeddable http server with C++ wrapper API included.
 
 Directory list
 ------------------------
-\bin          - executable output directory for test application
-\build        - build scripts & project files (Visual Studio 2010, Code Blocks 13)
-\lib          - library output directory 
-\mongoose     - HTTP server code & documents
-\mongoose_cpp - C++ wrapper code & test application
+    \bin          - executable output directory for test application
+    \build        - build scripts & project files (Visual Studio 2010, Code Blocks 13)
+    \lib          - library output directory 
+    \mongoose     - HTTP server code & documents
+    \mongoose_cpp - C++ wrapper code & test application
   
 Build
 ------------------------  
