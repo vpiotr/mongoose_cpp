@@ -13,8 +13,8 @@ Wrapper project home:
     
 Files and directories:
 ------------------------
-\include     - include files
-\src         - source code files 
+    \include     - include files
+    \src         - source code files 
 
 Example of C++ web server 
 ---------------------------
